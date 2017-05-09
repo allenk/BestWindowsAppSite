@@ -46,4 +46,6 @@
 .markdown-body pre code::before, .markdown-body pre code::after { content: normal; }
 .markdown-body .full-commit .btn-outline:hover:not(:disabled) { color: rgb(64, 120, 192); border: 1px solid rgb(64, 120, 192); }
 
-tc-apptitle { font-family: "Noto Sans TC",sans-serif; font-weight: 400; }
+tc-apptitle { font-family: "Noto Sans TC",sans-serif; font-weight: bold; }
+ne-appcomment { font-size: small; font-weight: bold; }
+ne-tagscomment { font-size: small; }
