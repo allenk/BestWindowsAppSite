@@ -1,5 +1,4 @@
 .markdown-body { box-sizing: border-box; min-width: 200px; max-width: 980px; margin: 0px auto; padding: 45px; }
-/* ::::: http://localhost:8090/github-markdown.css ::::: */
 
 @font-face {
 	font-family: "octicons-link";
@@ -46,5 +45,5 @@
 .markdown-body code::before, .markdown-body code::after { letter-spacing: -0.2em; content: " "; }
 .markdown-body pre code::before, .markdown-body pre code::after { content: normal; }
 .markdown-body .full-commit .btn-outline:hover:not(:disabled) { color: rgb(64, 120, 192); border: 1px solid rgb(64, 120, 192); }
-/* ::::: http://localhost:8090/github-highlight.css ::::: */
 
+tc-apptitle { font-family: "Noto Sans TC",sans-serif; font-weight: 400; }
